@@ -1,4 +1,4 @@
-[NOTE: This file is a work-in-progress to create a clean markdown version from the result of auto-conversions from PDF to MS Word to Plain Text and likely includes many errors.  For readability, section headers have been added in [brackets] for the provisions on data deletion and correction. Also, the original line numbers from the PDF have been deleted.]
+[NOTE: This file is a work-in-progress to create a clean markdown version from the result of auto-conversions from PDF to MS Word to Plain Text and likely includes many errors.  For readability, section headers have been added in [brackets] for the provisions on data deletion, correction, and portability in Section 203(a). Also, the original line numbers from the PDF have been deleted.]
 
 
 Amendment in the Nature of a Substitute
@@ -1277,7 +1277,7 @@ ered entity to notify any third party, or service pro-
 vider to which the covered entity transferred such
 covered data of the individual’s deletion request; and
 
-#### (4) [export]
+#### (4) [portability]
 
 to the extent technically feasible, export cov-
 ered data to the individual or directly to another en-
